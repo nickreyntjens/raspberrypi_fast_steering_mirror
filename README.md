@@ -1,6 +1,8 @@
 # raspberrypi_fast_steering_mirror
 
-While commercial fast beam steering solutions exist, there is not a simple cheap solution available to the open source community. The project is part of the photonic insecticides movement (https://photonicinsecticides.com) which aims to prevent the extinction of insects.
+While commercial fast beam steering solutions exist, there is not a simple cheap solution available to the open source community. 
+A raspberry pi can directly drive the servos of the mirror, vastly simplifying tracking a subject with a camera. 
+The project is part of the photonic insecticides movement (https://photonicinsecticides.com) which aims to prevent the extinction of insects.
 
 ## Very cheap version with toy servos (cost = 5 euro)
 
