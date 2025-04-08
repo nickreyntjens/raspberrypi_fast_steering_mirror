@@ -11,6 +11,10 @@ While commercial fast beam steering solutions exist, there is not a simple cheap
 [video 1](https://www.youtube.com/shorts/W5gDEPCPxdw)
 [video 2](https://www.youtube.com/shorts/TYv_WdsBpbU)
 
+The pivot point works pretty well, even on just 3D printed pla. This design uses 2 servos each with a pulley, that pull on one end of the mirror, and an opposing force is provided by a rubberband. The advantage of this approach is that there is no slack on the gears and the range of the servo can be mapped onto a very small range, allowing a high resolution. Because of the big ´pulley reduction´, the servo´s need to exert almost no force, allowing them to last long, and allowing the opposing rubber band to have high tention, leading to fast mirror response.
+
+It is important to pick an appropriate fishing wire, which does not strech, braided versions are optimized for this, I used: 
+Seashark Fishing Line 8 Strands Super Strong Abrasion Resistant Braided Fishing Line 6lb-80lb (Red, 30lb, 0.25mm-100m)
 
 The 3D printable step files are available in this repo.
 This mirror has an expected latency of 20ms (50 hertz pwm delay) + 1 ms (physical movement delay).
