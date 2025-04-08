@@ -39,5 +39,13 @@ Fast framerates an tracking on raspberry pi: https://github.com/nickreyntjens/50
 Laser safety calculator: https://github.com/nickreyntjens/laser_safety_calculator.py
 (shows that with correct focal lenght, 1550 nm is safe for eyes at small nominal safety zones)
 
+powerfull laser that can be beam steerded with the mentioned first surface mirror: 
+https://www.youtube.com/shorts/7zXeW-iTORE
+
+speed and resolution of servo based FSM (previous version):
+resolution: https://www.youtube.com/shorts/WsfYu-xkHlc
+speed: https://www.youtube.com/watch?v=zjyvQWzR2nU
+previous design: https://www.youtube.com/shorts/tYfRxH87-xI
+
 
 
