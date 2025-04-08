@@ -16,6 +16,9 @@ The project is part of the photonic insecticides movement (https://photonicinsec
 
 [video 1](https://www.youtube.com/shorts/W5gDEPCPxdw)
 [video 2](https://www.youtube.com/shorts/TYv_WdsBpbU)
+[video 3](https://www.youtube.com/shorts/n7RJudVoIKI)
+
+
 
 Step files are available in this repo. The onshape model can be downloaded here: 
 [onshape 3d model](https://cad.onshape.com/documents/42a994e21e26fad8b3460b75/w/7cf62af59e25260f99a73d94/e/b8c9f3caf367e97fbe915c99?renderMode=0&uiState=67f4ea855562354194014e0c)
