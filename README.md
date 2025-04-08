@@ -6,7 +6,7 @@ While commercial fast beam steering solutions exist, there is not a simple cheap
 
 ![pic1](pic1.jpeg)
 ![pic2](pic2.jpeg)
-![pic3](pic3.jpeg)
+![pic3](pic3.png)
 
 [video 1](https://www.youtube.com/shorts/W5gDEPCPxdw)
 [video 2](https://www.youtube.com/shorts/TYv_WdsBpbU)
