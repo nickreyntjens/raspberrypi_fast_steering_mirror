@@ -16,7 +16,7 @@ It is crucial to choose a fishing wire that does not stretch. Braided wires are 
 The 3D-printable STEP files are available in this repository. The mirror’s expected latency is approximately 20 ms (due to a 50 Hz PWM delay) plus an additional 1 ms for physical movement.
 
 A faster version, with more expensive servos like these: 
-[kstservo](https://www.kiwi-electronics.com/en/raspberry-pi-global-shutter-camera-c-mount-11346?srsltid=AfmBOorjyt3xhTllkbBb9jNMj-0uA5owiSabHFzQiQZfjXykuc6Kj5gH](https://kstservos.com/collections/helicopter-servos/products/ds215mg-v3-0-digital-metal-gear-micro-servo-3-70kg-cm-0-05sec-for-rc-glider-helicopters)
+[kstservo](https://kstservos.com/collections/helicopter-servos/products/ds215mg-v3-0-digital-metal-gear-micro-servo-3-70kg-cm-0-05sec-for-rc-glider-helicopters)
 can hopefully be built in the near future, these would have a latency of 3 ms + 0.5 ms.
 When modifying the servo´s by removng the potentiometer and driving the motor directly, a latency of 0.5 ms may be possible.
 
