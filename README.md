@@ -8,6 +8,10 @@ While commercial fast beam steering solutions exist, there is not a simple cheap
 ![pic2](pic2.jpeg)
 ![pic3](pic3.jpeg)
 
+[video 1](https://www.youtube.com/shorts/W5gDEPCPxdw)
+[video 2](https://www.youtube.com/shorts/TYv_WdsBpbU)
+
+
 The 3D printable step files are available in this repo.
 This mirror has an expected latency of 20ms (50 hertz pwm delay) + 1 ms (physical movement delay).
 
@@ -23,6 +27,12 @@ First surface mirrors are recomended for good optical performence:
 More advanced users may use ultra thin mirrors, making the inirtia small and leading to faster mirror movements.
 [ultra thin first surface](https://www.edmundoptics.eu/f/ultra-thin-first-surface-mirrors/40105/)
 
+## Related projects
+
+Fast framerates an tracking on raspberry pi: https://github.com/nickreyntjens/500_fps_raspberry_pi_global_shutter_cam
+
+Laser safety calculator: https://github.com/nickreyntjens/laser_safety_calculator.py
+(shows that with correct focal lenght, 1550 nm is safe for eyes at small nominal safety zones)
 
 
 
