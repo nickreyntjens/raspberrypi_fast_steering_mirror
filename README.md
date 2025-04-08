@@ -43,8 +43,11 @@ powerfull laser that can be beam steerded with the mentioned first surface mirro
 https://www.youtube.com/shorts/7zXeW-iTORE
 
 speed and resolution of servo based FSM (previous version):
+
 resolution: https://www.youtube.com/shorts/WsfYu-xkHlc
+
 speed: https://www.youtube.com/watch?v=zjyvQWzR2nU
+
 previous design: https://www.youtube.com/shorts/tYfRxH87-xI
 
 
