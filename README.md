@@ -12,7 +12,9 @@ While commercial fast beam steering solutions exist, there is not a simple cheap
 [video 2](https://www.youtube.com/shorts/TYv_WdsBpbU)
 
 Step files are available in this repo. The onshape model can be downloaded here: 
-[onshape 3d model](https://cad.onshape.com/documents/42a994e21e26fad8b3460b75/w/7cf62af59e25260f99a73d94/e/b8c9f3caf367e97fbe915c99?renderMode=0&uiState=67f4e9c05562354194014c33)
+[onshape 3d model](https://cad.onshape.com/documents/42a994e21e26fad8b3460b75/w/7cf62af59e25260f99a73d94/e/b8c9f3caf367e97fbe915c99?renderMode=0&uiState=67f4ea855562354194014e0c)
+
+
 
 The pivot point performs reliably even when fabricated using basic 3D-printed PLA. This design employs two servos with individual pulleys that pull on one end of the mirror, while a rubber band provides the opposing force. This configuration eliminates gear slack and maps the servo range to a very narrow span, delivering high resolution. Furthermore, thanks to the significant pulley reduction, the servos exert minimal force—extending their lifespan—and allow the rubber band to maintain high tension, resulting in a swift mirror response.
 It is crucial to choose a fishing wire that does not stretch. Braided wires are ideal for this purpose; for example, I used Seashark Fishing Line (8-Strand, Super Strong, Abrasion Resistant, available in a 6lb–80lb range, with specifications such as Red, 30lb, 0.25mm, 100m).
