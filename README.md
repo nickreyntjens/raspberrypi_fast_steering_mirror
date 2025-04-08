@@ -9,6 +9,8 @@ The project is part of the photonic insecticides movement (https://photonicinsec
 ![pic1](pic1.jpeg)
 ![pic2](pic2.jpeg)
 ![pic3](pic3.png)
+![section_view](section_view.png)
+
 
 [video 1](https://www.youtube.com/shorts/W5gDEPCPxdw)
 [video 2](https://www.youtube.com/shorts/TYv_WdsBpbU)
