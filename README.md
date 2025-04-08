@@ -11,13 +11,9 @@ While commercial fast beam steering solutions exist, there is not a simple cheap
 [video 1](https://www.youtube.com/shorts/W5gDEPCPxdw)
 [video 2](https://www.youtube.com/shorts/TYv_WdsBpbU)
 
-The pivot point works pretty well, even on just 3D printed pla. This design uses 2 servos each with a pulley, that pull on one end of the mirror, and an opposing force is provided by a rubberband. The advantage of this approach is that there is no slack on the gears and the range of the servo can be mapped onto a very small range, allowing a high resolution. Because of the big ´pulley reduction´, the servo´s need to exert almost no force, allowing them to last long, and allowing the opposing rubber band to have high tention, leading to fast mirror response.
-
-It is important to pick an appropriate fishing wire, which does not strech, braided versions are optimized for this, I used: 
-Seashark Fishing Line 8 Strands Super Strong Abrasion Resistant Braided Fishing Line 6lb-80lb (Red, 30lb, 0.25mm-100m)
-
-The 3D printable step files are available in this repo.
-This mirror has an expected latency of 20ms (50 hertz pwm delay) + 1 ms (physical movement delay).
+The pivot point performs reliably even when fabricated using basic 3D-printed PLA. This design employs two servos with individual pulleys that pull on one end of the mirror, while a rubber band provides the opposing force. This configuration eliminates gear slack and maps the servo range to a very narrow span, delivering high resolution. Furthermore, thanks to the significant pulley reduction, the servos exert minimal force—extending their lifespan—and allow the rubber band to maintain high tension, resulting in a swift mirror response.
+It is crucial to choose a fishing wire that does not stretch. Braided wires are ideal for this purpose; for example, I used Seashark Fishing Line (8-Strand, Super Strong, Abrasion Resistant, available in a 6lb–80lb range, with specifications such as Red, 30lb, 0.25mm, 100m).
+The 3D-printable STEP files are available in this repository. The mirror’s expected latency is approximately 20 ms (due to a 50 Hz PWM delay) plus an additional 1 ms for physical movement.
 
 A faster version, with more expensive servos like these: 
 [kstservo](https://www.kiwi-electronics.com/en/raspberry-pi-global-shutter-camera-c-mount-11346?srsltid=AfmBOorjyt3xhTllkbBb9jNMj-0uA5owiSabHFzQiQZfjXykuc6Kj5gH](https://kstservos.com/collections/helicopter-servos/products/ds215mg-v3-0-digital-metal-gear-micro-servo-3-70kg-cm-0-05sec-for-rc-glider-helicopters)
