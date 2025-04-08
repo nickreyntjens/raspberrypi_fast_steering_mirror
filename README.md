@@ -25,7 +25,9 @@ Step files are available in this repo. The onshape model can be downloaded here:
 (*) hard to get working link, search for 'Budget FSM' in the onshape public models listing.
 The prototype in the images is printed on Bambu lab A1 mini.
 
-The pivot point performs reliably even when fabricated using basic 3D-printed PLA. This design employs two servos with individual pulleys that pull on one end of the mirror, while a rubber band provides the opposing force. This configuration eliminates gear slack and maps the servo range to a very narrow span, delivering high resolution. Furthermore, thanks to the significant pulley reduction, the servos exert minimal force—extending their lifespan—and allow the rubber band to maintain high tension, resulting in a swift mirror response.
+This design employs two servos with individual pulleys that pull on one end of the mirror, while a rubber band provides the opposing force. The center of the mirror is has a nudge in which a pin slides, creating a pivot point. The pivot point performs reliably even when fabricated using basic 3D-printed PLA. A more refined design may employ a ball bearing.
+
+This configuration eliminates gear slack and maps the servo range to a very narrow span, delivering high resolution. Furthermore, thanks to the significant pulley reduction, the servos exert minimal force—extending their lifespan—and allow the rubber band to maintain high tension, resulting in a swift mirror response.
 It is crucial to choose a fishing wire that does not stretch. Braided wires are ideal for this purpose; for example, I used Seashark Fishing Line (8-Strand, Super Strong, Abrasion Resistant, available in a 6lb–80lb range, with specifications such as Red, 30lb, 0.25mm, 100m).
 The 3D-printable STEP files are available in this repository. The mirror’s expected latency is approximately 20 ms (due to a 50 Hz PWM delay) plus an additional 1 ms for physical movement.
 
