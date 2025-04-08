@@ -13,7 +13,7 @@ While commercial fast beam steering solutions exist, there is not a simple cheap
 
 Step files are available in this repo. The onshape model can be downloaded here: 
 [onshape 3d model](https://cad.onshape.com/documents/42a994e21e26fad8b3460b75/w/7cf62af59e25260f99a73d94/e/b8c9f3caf367e97fbe915c99?renderMode=0&uiState=67f4ea855562354194014e0c)
-
+(*) hard to get working link, search for 'Budget FSM' in the onshape public models listing.
 
 
 The pivot point performs reliably even when fabricated using basic 3D-printed PLA. This design employs two servos with individual pulleys that pull on one end of the mirror, while a rubber band provides the opposing force. This configuration eliminates gear slack and maps the servo range to a very narrow span, delivering high resolution. Furthermore, thanks to the significant pulley reduction, the servos exert minimal force—extending their lifespan—and allow the rubber band to maintain high tension, resulting in a swift mirror response.
